@@ -6,7 +6,7 @@
    1. MEGA MENU — hover open / close
 ──────────────────────────────────────── */
 const navItems = document.querySelectorAll('.nav-item');
-const navInner = document.querySelector('.nav-inner');
+const navInner = document.querySelector('.nav-inner'); 
 
 function closeAllMenus() {
   navItems.forEach(i => {
