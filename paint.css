@@ -10,7 +10,7 @@ body {
   color: #111827;
   background: #fff;
   line-height: 1.5;
-  overflow-x: hidden;
+  overflow-x: hidden; 
 }
 a { text-decoration: none; color: inherit; }
 img, video { display: block; max-width: 100%; }
