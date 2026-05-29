@@ -1,16 +1,16 @@
-# Canva Clone — User Interface Design (23CSE113)
+# Canva Clone — User Interface Design 
 
 A pixel-perfect front-end replica of [Canva](https://www.canva.com), built as part of the User Interface Design course assignment. The project replicates Canva's landing page including navigation, hero section, AI tools, templates, explore section, and footer.
 
 ---
 
-## 🔗 Live Demo
+##  Live Demo
 
 [https://nsgsk.github.io/Canva---Clone-/](https://nsgsk.github.io/Canva---Clone-/)
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Canva---Clone-/
@@ -22,7 +22,7 @@ Canva---Clone-/
 
 ---
 
-## ✨ Features Replicated
+##  Features Replicated
 
 - **Navbar** with mega dropdown menus (Design, Product, Plans, Business, Education, Help)
 - **Hero Section** with video background, play/pause and mute controls
@@ -34,7 +34,7 @@ Canva---Clone-/
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3 (Flexbox, Grid, CSS Variables, Gradients)
@@ -42,7 +42,7 @@ Canva---Clone-/
 
 ---
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 1. Clone the repository:
    ```bash
@@ -52,7 +52,7 @@ Canva---Clone-/
 
 ---
 
-## 📋 Assignment Details
+##  Assignment Details
 
 | | |
 |---|---|
